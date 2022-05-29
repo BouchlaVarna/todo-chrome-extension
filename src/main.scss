@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 400px;
+    height: 400px;
+}
+
+@import '../src/Todo/main.css';

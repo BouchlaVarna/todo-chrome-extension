@@ -1,0 +1,10 @@
+{
+    "name": "Doist",
+    "description": "A todo list extension for keeping track of your tasks.",
+    "version": "1.1",
+    "manifest_version": 3,
+    "permissions": ["storage"],
+    "action": {
+        "default_popup": "index.html"
+    }
+  }
